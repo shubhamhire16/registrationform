@@ -1,0 +1,7 @@
+git init
+git add .
+git status
+git remote add origin "<link of repo>"
+git commit -m "<message>"
+git status
+git push -u origin master
